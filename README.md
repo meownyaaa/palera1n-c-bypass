@@ -1,6 +1,8 @@
 # palera1n-c-bypass
 I have no idea anymore i think this is a tutorial
 
+THIS ASSUMES YOU HAVE EVERYTHING INSTALLED!!
+
 restore the iphone with itunes before doing any of this or it probably wont work
 
 https://raw.githubusercontent.com/kitty915/palera1n-mod/main/other/mobileactivationd download allat fr
