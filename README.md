@@ -2,7 +2,7 @@
 I have no idea anymore i think this is a tutorial (done on macOS 14.1)
 
 # THIS ASSUMES YOU HAVE EVERYTHING INSTALLED!!
-restore the iphone with itunes before doing any of this or it probably wont work
+restore the iphone with itunes before doing this or it probably wont work (depends if you reached the activation lock credidentials screen)
 
 https://raw.githubusercontent.com/kitty915/palera1n-mod/main/other/mobileactivationd download this
 https://ios.cfw.guide/installing-palera1n/#running-palera1n-1 except run `palera1n -c -f` (grab palera1n c beta 7 binary for your system)
